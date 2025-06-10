@@ -1,3 +1,6 @@
+//Name: Anyshya Hemphill
+//Program 1 – Numbers
+// This program calciates the value of integer input given by the user.
 #include <iostream>
 using namespace std;
 
