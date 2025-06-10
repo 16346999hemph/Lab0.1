@@ -1,4 +1,6 @@
-#include <iostream>
+//Name: Anyshya Hemphill
+//Program 1 – Numbers
+// This program finds the largest of 4 integers entered by the user.#include <iostream>
 using namespace std;
 int main() {
 	int a, b, c, d, large;
