@@ -1,3 +1,6 @@
+//Name: Anyshya Hemphill
+//Program 1 – Numbers
+// This program sorts through an array of integers and orders them from smallest to largest.
 #include <iostream>
 using namespace std;
 
